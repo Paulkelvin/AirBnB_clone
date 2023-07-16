@@ -25,8 +25,3 @@ EOF  help  quit
 (hbnb) quit
 $
 ```
-
-### Contact Info:
-#### Git: ChristianCampos-55
-
-#### Git: danielj32
